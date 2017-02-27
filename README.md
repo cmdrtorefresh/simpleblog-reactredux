@@ -10,8 +10,10 @@ This app creates a simple blog system with React Redux. API: [reduxblog.herokuap
 
 To be  populated.
 
-Dependency:
+Extra Dependencies:
 - [react-router](https://github.com/ReactTraining/react-router) `npm install --save react-router@2.0.0-rc5`
+- [redux-promise](https://www.npmjs.com/package/redux-promise) `npm install --save redux-promise`
+- [axios](https://www.npmjs.com/package/axios) `npm install --save axios`
 
 ### How to see the app in action
 
