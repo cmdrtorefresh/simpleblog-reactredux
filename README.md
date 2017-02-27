@@ -4,11 +4,14 @@ Taken from [Stephen Grider](https://github.com/StephenGrider)'s React-Redux cour
 
 ### About this App
 
-This app creates a simple blog system with React Redux.
+This app creates a simple blog system with React Redux. API: [reduxblog.herokuapp.com](reduxblog.herokuapp.com).
 
 ### Elements of the App
 
 To be  populated.
+
+Dependency:
+- [react-router](https://github.com/ReactTraining/react-router) `npm install --save react-router@2.0.0-rc5`
 
 ### How to see the app in action
 
