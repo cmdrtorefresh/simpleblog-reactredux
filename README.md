@@ -8,8 +8,9 @@ This app creates a simple blog system with React Redux. API: [reduxblog.herokuap
 
 ### Elements of the App
 
-Components:
+Containers:
 - Posts Index
+- Posts New
 
 Reducers:
 - Posts
