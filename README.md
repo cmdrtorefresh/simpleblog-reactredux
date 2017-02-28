@@ -8,7 +8,11 @@ This app creates a simple blog system with React Redux. API: [reduxblog.herokuap
 
 ### Elements of the App
 
-To be  populated.
+Components:
+- Posts Index
+
+Reducers:
+- Posts
 
 Extra Dependencies:
 - [react-router](https://github.com/ReactTraining/react-router) `npm install --save react-router@2.0.0-rc5`
